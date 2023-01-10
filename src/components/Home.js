@@ -6,7 +6,7 @@ function Home() {
   // return <div>Home</div>;
   return (
     <div id = "home">
-      <h1 className = "firebrick">{name} is a Web Developer from Nairobi {city}</h1>
+      <h1 className = "firebrick">{name} is a Web Developer from {city}</h1>
     </div>
   )
 
